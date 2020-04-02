@@ -49,5 +49,5 @@ The meat of the code is in the controllers folder.  You would simply alter the m
 > Obviously the method signatures need to change from IEnumerable<string> to IEnumerable<SomethingElse>  but I don't know what your employee object looks like.
 > Alternative entity framework (if you're using it) can scaffold up controllers like this for get / post /put operations by 
 > right clicking controllers->Add->Controller-> and then choosing the option to use entity framework with read/write
-> 
+
 
